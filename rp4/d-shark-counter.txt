@@ -1,0 +1,105 @@
+====================
+WAP-WSP Packet Counter - d-shark-push.pcapng:
+Type / Code  Packets
+--------------------
+Unknown status code        0
+Unknown PDU type        0
+Extended Post Method 9        0
+Extended Post Method 8        0
+Extended Post Method 15        0
+Extended Post Method 14        0
+Extended Post Method 13        0
+Extended Post Method 12        0
+Extended Post Method 11        0
+Extended Post Method 10        0
+505 WSP/HTTP Version Not Supported        0
+504 Gateway Timeout        0
+503 Service Unavailable        0
+502 Bad Gateway        0
+501 Not Implemented        0
+500 Internal Server Error        0
+417 Expectation Failed        0
+416 Requested Range Not Satisfiable        0
+415 Unsupported Media Type        0
+414 Request-URI Too Large        0
+413 Request Entity Too Large        0
+412 Precondition Failed        0
+411 Length Required        0
+410 Gone           0
+409 Conflict        0
+408 Request Timeout        0
+407 Proxy Authentication Required        0
+406 Not Acceptable        0
+405 Method Not Allowed        0
+404 Not Found        0
+403 Forbidden        0
+402 Payment Required        0
+401 Unauthorised        0
+400 Bad Request        0
+307 Temporary Redirect        0
+305 Use Proxy        0
+304 Not Modified        0
+303 See Other        0
+302 Moved Temporarily        0
+301 Moved Permanently        0
+300 Multiple Choices        0
+206 Partial Content        0
+205 Reset Content        0
+204 No Content        0
+203 Non-Authoritative Information        0
+202 Accepted        0
+201 Created        0
+200 OK             0
+101 Switching Protocols        0
+100 Continue        0
+Unknown PDU type        0
+Trace              0
+Suspend            0
+Resume             0
+Reserved           0
+Reply              0
+Redirect           0
+Put                0
+Push               0
+Post               0
+Options            0
+Head               0
+Get                0
+Extended Post Method 9        0
+Extended Post Method 8        0
+Extended Post Method 7        0
+Extended Post Method 6        0
+Extended Post Method 5        0
+Extended Post Method 4        0
+Extended Post Method 3        0
+Extended Post Method 2        0
+Extended Post Method 15        0
+Extended Post Method 14        0
+Extended Post Method 13        0
+Extended Post Method 12        0
+Extended Post Method 11        0
+Extended Post Method 10        0
+Extended Post Method 1        0
+Extended Post Method 0        0
+Extended Get Method 9        0
+Extended Get Method 8        0
+Extended Get Method 7        0
+Extended Get Method 6        0
+Extended Get Method 5        0
+Extended Get Method 4        0
+Extended Get Method 3        0
+Extended Get Method 2        0
+Extended Get Method 15        0
+Extended Get Method 14        0
+Extended Get Method 13        0
+Extended Get Method 12        0
+Extended Get Method 11        0
+Extended Get Method 10        0
+Extended Get Method 1        0
+Extended Get Method 0        0
+Disconnect         0
+Delete             0
+ConnectReply        0
+Connect            0
+ConfirmedPush        0
+--------------------

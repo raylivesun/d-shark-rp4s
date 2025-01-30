@@ -1,0 +1,25 @@
+# Netfilter (iptables) rules for wireshark_lo88RS02.pcapng, packet 1. Change eth0 to a valid interface if needed.
+
+# IPv4 source address.
+iptables --append INPUT --in-interface eth0 --source 127.0.0.1/32 --jump DROP
+
+# IPv4 destination address.
+iptables --append INPUT --in-interface eth0 --source 127.0.0.1/32 --jump DROP
+
+# Source port.
+iptables --append INPUT --in-interface eth0 --protocol tcp --source-port 34752 --jump DROP
+
+# Destination port.
+iptables --append INPUT --in-interface eth0 --protocol tcp --source-port 49152 --jump DROP
+
+# IPv4 source address and port.
+iptables --append INPUT --in-interface eth0 --protocol tcp --source 127.0.0.1/32 --source-port 34752 --jump DROP
+
+# IPv4 destination address and port.
+iptables --append INPUT --in-interface eth0 --protocol tcp --source 127.0.0.1/32 --source-port 49152 --jump DROP
+
+# MAC source address.
+iptables --append INPUT --in-interface eth0 --mac-source 00:00:00:00:00:00 --jump DROP
+
+# MAC destination address.
+iptables --append INPUT --in-interface eth0 --mac-source 00:00:00:00:00:00 --jump DROP

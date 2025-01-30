@@ -1,0 +1,9 @@
+{
+    "name": "rp4",
+    "description": null,
+    "projects": {
+        "s": "s/dub.json"
+    },
+    "includePath": {
+    }
+}

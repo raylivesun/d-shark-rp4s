@@ -1,0 +1,23 @@
+==========================
+DHCP (BOOTP) Statistics - Loopback: lo:
+DHCP Message Type  Packets
+--------------------------
+TLS                      0
+Request                  0
+Release                  0
+Offer                    0
+NAK                      0
+Lease query              0
+Lease Unknown            0
+Lease Unassigned         0
+Lease Query Status        0
+Lease Query Done         0
+Lease Active             0
+Inform                   0
+Force Renew              0
+Discover                 0
+Decline                  0
+Bulk Lease Query         0
+Active LeaseQuery        0
+ACK                      0
+--------------------------
