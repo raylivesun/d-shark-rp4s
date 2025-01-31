@@ -1,3 +1,49 @@
 {
-    "startupProject": "s"
+    "startupProject": "s",
+    "expandedItems": [
+        "/home/admin/app/dlang-komodo/d-shark-rp4s/rp4/s/dub.json",
+        "/home/admin/app/dlang-komodo/d-shark-rp4s/rp4/s/source",
+        "/home/admin/app/dlang-komodo/d-shark-rp4s/rp4/s/source/eq2t"
+    ],
+    "selectedWorkspaceItem": "/home/admin/app/dlang-komodo/d-shark-rp4s/rp4/s/source/eq2t/yeob9wrieswow.d",
+    "breakpoints": [
+        {
+            "id": 2,
+            "file": "kukfowl90wsOf.d",
+            "line": 29,
+            "enabled": true,
+            "projectName": "s",
+            "projectFilePath": "source/eq2t/kukfowl90wsOf.d"
+        },
+        {
+            "id": 4,
+            "file": "yeob9wrieswow.d",
+            "line": 13,
+            "enabled": true,
+            "projectName": "s",
+            "projectFilePath": "source/eq2t/yeob9wrieswow.d"
+        }
+    ],
+    "files": [
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-rp4s/rp4/s/source/app.d",
+            "column": 0,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-rp4s/rp4/s/source/eq2t/novmuthknebhic1.d",
+            "column": 148,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-rp4s/rp4/s/source/eq2t/kukfowl90wsOf.d",
+            "column": 35,
+            "row": 19
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-rp4s/rp4/s/source/eq2t/yeob9wrieswow.d",
+            "column": 16,
+            "row": 0
+        }
+    ]
 }
